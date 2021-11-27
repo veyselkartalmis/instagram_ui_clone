@@ -2,7 +2,7 @@
 
 ## App preview
 
-<img height="720px" src="images/clone1.png"> <img height="720px" src="images/clone2.png"> <img height="720px" src="images/burc.png">
+<img height="720px" src="images/clone1.png"> <img height="720px" src="images/clone2.png">
 
 ## Todos
 
