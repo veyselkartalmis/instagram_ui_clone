@@ -1,7 +1,8 @@
 # instagram_ui_clone
 
-![Home](images/clone1.png "HomePage")
-![Home](images/clone2.png "HomePage")
+## App preview
+
+<img height="720px" src="images/clone1.png"> <img height="720px" src="images/clone2.png"> <img height="720px" src="images/burc.png">
 
 ## Todos
 
